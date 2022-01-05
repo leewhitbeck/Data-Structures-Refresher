@@ -5,7 +5,8 @@ A repo that contains Data Structures Algorithms to serve as a refresher
 - [x] Linked List (Single )
 - [x] Linked List ( Double )
 - [ ] Linked List refactor
-- [ ] Stack
+- [ ] Stack Overview
+- [ ] Stack Implement
 - [ ] Queue
 - [ ] Tree(s)
 - [ ] Hash Table
